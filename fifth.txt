@@ -1,0 +1,6 @@
+The discipline of mathematics now covers – in addition to the more or less standard fields of number theory,
+ algebra, geometry, analysis (calculus), mathematical logic and set theory, and more applied mathematics 
+such as probability theory and statistics – a bewildering array of specialized areas and fields of study, 
+including group theory, order theory, knot theory, sheaf theory, topology, differential geometry, fractal geometry,
+ graph theory, functional analysis, complex analysis, singularity theory, catastrophe theory, chaos theory, 
+measure theory, model theory, category theory, control theory, game theory, complexity theory and many more.
